@@ -1,5 +1,3 @@
-Here's a description you can use for GitHub:
-
 ---
 
 ### Bank Account Class with Getters and Setters
@@ -24,5 +22,3 @@ console.log(account.balance); // Retrieving and displaying the balance
 - Error handling for invalid balance updates
 
 ---
-
-Let me know if you need any adjustments!
